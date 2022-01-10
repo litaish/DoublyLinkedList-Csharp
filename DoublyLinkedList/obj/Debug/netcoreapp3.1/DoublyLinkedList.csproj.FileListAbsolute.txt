@@ -1,0 +1,13 @@
+C:\Users\Lita\Documents\School\5_SEM\ALGORITMI_5SEM\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.exe
+C:\Users\Lita\Documents\School\5_SEM\ALGORITMI_5SEM\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.deps.json
+C:\Users\Lita\Documents\School\5_SEM\ALGORITMI_5SEM\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.runtimeconfig.json
+C:\Users\Lita\Documents\School\5_SEM\ALGORITMI_5SEM\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.runtimeconfig.dev.json
+C:\Users\Lita\Documents\School\5_SEM\ALGORITMI_5SEM\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.dll
+C:\Users\Lita\Documents\School\5_SEM\ALGORITMI_5SEM\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.pdb
+C:\Users\Lita\Documents\School\5_SEM\ALGORITMI_5SEM\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.csprojAssemblyReference.cache
+C:\Users\Lita\Documents\School\5_SEM\ALGORITMI_5SEM\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.AssemblyInfoInputs.cache
+C:\Users\Lita\Documents\School\5_SEM\ALGORITMI_5SEM\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.AssemblyInfo.cs
+C:\Users\Lita\Documents\School\5_SEM\ALGORITMI_5SEM\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Lita\Documents\School\5_SEM\ALGORITMI_5SEM\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.dll
+C:\Users\Lita\Documents\School\5_SEM\ALGORITMI_5SEM\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.pdb
+C:\Users\Lita\Documents\School\5_SEM\ALGORITMI_5SEM\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.genruntimeconfig.cache
